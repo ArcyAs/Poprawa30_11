@@ -2,7 +2,7 @@
 
 namespace Poprawa30_11
 {
-    //Grupa E
+    //Grupa  E
     class Program
     {
         static void Pierwsze()
