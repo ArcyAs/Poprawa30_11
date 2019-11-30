@@ -7,7 +7,7 @@ namespace Poprawa_30_11
     {
         static void Pierwsze()
         {
-            Console.WriteLine("Podaj promien: ");
+            Console.WriteLine("Podaj promien:");
             string r =Console.ReadLine();
             double x = Convert.ToDouble(r);
             double powierzchnia=4*3.14 * (Math.Pow(x, 2));
