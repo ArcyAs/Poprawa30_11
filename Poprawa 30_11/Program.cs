@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Poprawa_30_11
+namespace Poprawa_30.11
 {
     //Grupa E
     class Program
